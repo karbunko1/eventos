@@ -22,7 +22,7 @@
 19:00;WTA Torneo de Monastir 2ª Ronda;L. Stefanini;K. Kawa;WTA TV;
 19:30;Eurocup Liga Regular;Hamburg Towers;Paris Basketball;EuroLeague TV;
 19:30;Torneo de Estocolmo 2ª Ronda;H. Rune;M. Kecmanovic;ATP Tennis TV;
-20:00;Eurocup Liga Regular;Dolomiti Energia Trento;Dreamland Gran Canaria;Canal por confirmar;
+20:00;Eurocup Liga Regular;Dolomiti Energia Trento;Dreamland Gran Canaria;EuroLeague YouTube;
 20:00;Primera Federación Futsal;Noia Portus Apostoli FS;Servigroup Peñiscola FS;FEF TV;
 20:00;Primera Federación Futsal;Ribera Navarra FS;Jimbee Cartagena FS;FEF TV;
 20:30;Basketball Champions League Liga Regular;Derthona Basket;UCAM Murcia CB;Popular TV Murcia;
