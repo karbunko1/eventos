@@ -1,3 +1,5 @@
+DAZN F1 Multicamara (Fórmula 1) 
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e 
 DAZN F1 UHD (Fórmula 1) 
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041 
 DAZN F1 1080 (Fórmula 1) 
@@ -88,6 +90,8 @@ LaLiga Smartbank 2 720
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924 
 M. Deportes 1080 
 acestream://d00223931b1854163e24c5c22475015d7d45c112 
+DAZN F1 Multicamara (Fórmula 1) 
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e 
 DAZN F1 UHD (Fórmula 1) 
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041 
 DAZN F1 1080 (Fórmula 1) 
