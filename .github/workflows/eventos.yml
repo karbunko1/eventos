@@ -4,12 +4,12 @@ on:
   workflow_dispatch:
   
   schedule:
-    # Corre cada 2h
+    # Corre cada 1h
     #- cron: '0 * * * *'
     # Otras programaciones
     - cron: '0,15,30,45 8-23 * * *'
     #- cron: '0 0-10/3 * * *'
-    # Corre cada 6h    
+    # Corre cada 2h    
     #- cron: '0 */2 * * *'
     # Test
     #- cron: '15,45 10-23 * * *'
