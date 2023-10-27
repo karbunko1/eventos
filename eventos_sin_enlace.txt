@@ -10,6 +10,6 @@
 17:30;Torneo de Viena 1/4 de Final;A. Zverev;A. Rublev;ATP Tennis TV;
 18:00;Torneo de Basilea 1/4 de Final;B. Van de Zandschulp;F. Auger-Aliassime;ATP Tennis TV;
 18:00;Torneo de Basilea 1/4 de Final;H. Rune;TM. Etcheverry;ATP Tennis TV;
-20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Virtus Bologna;README.md estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
+20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Virtus Bologna;README.md estilo.css eventos.sh generador_html.sh id_27-10-2023.txt index.html SIN TV EN DIRECTO *;
 20:00;Futsal Champions League Fase de clasificación;Palma Futsal;Differdange 03 Futsal;LaLiga+ Plus;
 21:00;Primera Federación Futsal;Industrias Santa Coloma;Córdoba FS;FEF TV;Esport3 (Cataluña);
