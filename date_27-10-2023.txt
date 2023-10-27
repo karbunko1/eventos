@@ -6,12 +6,12 @@
 13:00;Menorca Open;1/4 de final masculino;M+ Deportes 5 (192);
 13:00;Torneo de Les Franqueses del Vallés 1/4 de Final;A. Rus;D. Galfi;Tennis Channel (Orange 104);
 13:00;WTA Elite Trophy Round Robin;J. Ostapenko;Q. Zheng;WTA TV;DAZN (Regístrate);
-14:00;Torneo de Basilea 1/4 de Final;T. Griekspoor;H. Hurkacz;ATP Tennis TV;
-14:00;Torneo de Viena 1/4 de Final;D. Medvedev;K. Khachanov;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes 3 (65);
+14:00;Torneo de Basilea 1/4 de Final;T. Griekspoor;H. Hurkacz;ATP Tennis TV;M+ Deportes 2 (64);
+14:00;Torneo de Viena 1/4 de Final;D. Medvedev;K. Khachanov;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes (63);
 15:00;Torneo de Basilea;1/4 de Final;ATP 500;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
 15:30;Menorca Open;1/4 de final masculino;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 5 (192);
-15:30;Torneo de Basilea 1/4 de Final;U. Humbert;D. Stricker;ATP Tennis TV;
-15:30;Torneo de Viena 1/4 de Final;S. Tsitsipas;B. Gojo;ATP Tennis TV;M+ Deportes 3 (65);
+15:30;Torneo de Basilea 1/4 de Final;U. Humbert;D. Stricker;ATP Tennis TV;M+ Deportes 2 (64);
+15:30;Torneo de Viena 1/4 de Final;S. Tsitsipas;B. Gojo;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
 17:30;Torneo de Viena 1/4 de Final;A. Zverev;A. Rublev;ATP Tennis TV;M+ Deportes 3 (65);
 18:00;Torneo de Basilea 1/4 de Final;B. Van de Zandschulp;F. Auger-Aliassime;ATP Tennis TV;
 18:00;Torneo de Basilea 1/4 de Final;H. Rune;TM. Etcheverry;ATP Tennis TV;
