@@ -9,6 +9,7 @@
 15:30;Masters París 1ª Ronda;G. Monfils;F. Cerúndolo;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
 16:00;Masters París 2ª Ronda;T. Griekspoor;A. Davidovich;ATP Tennis TV;M+ Deportes (63);M+ Deportes 4 (191);
 17:30;Masters París 2ª Ronda;K. Khachanov;L. Djere;ATP Tennis TV;M+ Deportes 4 (191);
+18:00;Basketball Champions League Liga Regular;Tofas Bursa;Derthona Basket;Popular TV Murcia;
 18:30;Eurocup Liga Regular;Olimpija Ljubljana;BC Wolves;EuroLeague TV;
 19:00;Masters París 2ª Ronda;A. Bublik;N. Jarry;ATP Tennis TV;M+ Deportes 4 (191);
 19:30;Masters París 2ª Ronda;R. Safiullin;C. Alcaraz;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);M+ Deportes 3 (65);
