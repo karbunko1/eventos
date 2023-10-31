@@ -22,4 +22,4 @@
 21:00;Copa del Rey 1ª Ronda;CD Manacor;UD Las Palmas;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 3 (M62 O118);
 21:00;Copa del Rey 1ª Ronda;CF Talavera;UD Almería;M+ Liga de Campeones 2 (M61 O116);
 21:00;Copa del Rey 1ª Ronda;Lorca Deportiva;Eibar;Canal por confirmar;
-21:00;Masters París 2ª Ronda;Y. Nishioka;A. Rublev;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
+21:00;Masters París 1ª Ronda;Y. Nishioka;A. Rublev;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
