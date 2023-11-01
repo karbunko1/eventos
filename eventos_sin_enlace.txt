@@ -6,6 +6,7 @@
 12:00;Copa del Rey 1ª Ronda;Peña Deportiva;Real Valladolid;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 12:00;Copa del Rey 1ª Ronda;UCAM Murcia;Linares Deportivo;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 12:00;Copa del Rey 1ª Ronda;UD Barbastro;Ponferradina;Aragón TV;
+14:00;Masters París 2ª Ronda;N. Djokovic;TM. Etcheverry;ATP Tennis TV;Movistar Plus+ (M7);
 16:00;Copa del Rey 1ª Ronda;At. Astorga;FC Andorra;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 16:00;Copa del Rey 1ª Ronda;CA Antoniano;Lugo;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 16:00;Copa del Rey 1ª Ronda;Valle de Egüés;Teruel;Aragón TV;
@@ -40,4 +41,4 @@
 20:00;Copa del Rey 1ª Ronda;Marbella;Racing Ferrol;TVG2 (Galicia);
 20:00;FIBA Europe Cup Liga Regular;Bilbao Basket;Caledonia Gladiators;FIBA YouTube;ETB4 (País Vasco);
 20:30;Eurocup Women Liga Regular;Lointek Gernika;Ramat Hasharon;SUSPENDIDO;
-21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Lietkabelis Panevezys;Canal por confirmar;
+21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Lietkabelis Panevezys;EuroLeague YouTube;

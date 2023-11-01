@@ -1,6 +1,7 @@
 00:30;NBA Liga Regular;New York Knicks;Cleveland Cavaliers;M+ Deportes (63);M+ Deportes 2 (64);
 00:30;WTA Finals Round Robin;E. Rybakina;M. Sakkari;WTA TV;DAZN (Regístrate);DAZN 1 (M70);Teledeporte;RTVE Play;
-11:00;Masters París 2ª Ronda;G. Dimitrov;D. Medvedev;ATP Tennis TV;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
+11:00;Masters París 2ª Ronda;G. Dimitrov;D. Medvedev;ATP Tennis TV;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 3 (65);
+11:00;Masters París 2ª Ronda;T. Paul;B. Van de Zandschulp;ATP Tennis TV;M+ Deportes 4 (191);
 12:00;Copa del Rey 1ª Ronda;At. Lugones;Rayo Vallecano;M+ Liga de Campeones 3 (M62 O118);
 12:00;Copa del Rey 1ª Ronda;Azuaga;FC Cartagena;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 12:00;Copa del Rey 1ª Ronda;Badalona;Cádiz CF;M+ Liga de Campeones 2 (M61 O116);
@@ -12,10 +13,13 @@
 12:00;Copa del Rey 1ª Ronda;San Roque Lepe;Girona;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 4 (M180 O276);
 12:00;Copa del Rey 1ª Ronda;UCAM Murcia;Linares Deportivo;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 12:00;Copa del Rey 1ª Ronda;UD Barbastro;Ponferradina;Aragón TV;
+12:30;Masters París 2ª Ronda;R. Bautista-Agut;H. Hurkacz;ATP Tennis TV;M+ Deportes 4 (191);
 12:30;Masters París 2ª Ronda;S. Tsitsipas;F. Auger-Aliassime;ATP Tennis TV;M+ Deportes (63);
-14:00;Masters París 2ª Ronda;N. Djokovic;TM. Etcheverry;ATP Tennis TV;M+ Deportes (63);
+14:00;Masters París 2ª Ronda;D. Lajovic;A. De Miñaur;ATP Tennis TV;M+ Deportes 4 (191);
+14:00;Masters París 2ª Ronda;N. Djokovic;TM. Etcheverry;ATP Tennis TV;Movistar Plus+ (M7);
 15:30;Copa del Rey 1ª Ronda;CD Quintanar;Sevilla FC;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 3 (M62 O118);
 15:30;Copa del Rey 1ª Ronda;Turégano CF;Celta;M+ Liga de Campeones 2 (M61 O116);
+15:30;Masters París 2ª Ronda;C. Ruud;F. Cerúndolo;ATP Tennis TV;M+ Deportes 4 (191);
 15:30;Masters París 2ª Ronda;U. Humbert;A. Zverev;ATP Tennis TV;M+ Deportes (63);
 16:00;Copa del Rey 1ª Ronda;At. Astorga;FC Andorra;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 16:00;Copa del Rey 1ª Ronda;CA Antoniano;Lugo;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
@@ -57,7 +61,7 @@
 20:00;FIBA Europe Cup Liga Regular;Bilbao Basket;Caledonia Gladiators;FIBA YouTube;ETB4 (País Vasco);
 20:30;Copa del Rey 1ª Ronda;CF Hernán Cortés;Real Betis;Teledeporte;RTVE Play;
 20:30;Eurocup Women Liga Regular;Lointek Gernika;Ramat Hasharon;SUSPENDIDO;
-20:30;WTA Finals;Round Robin;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
-21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Lietkabelis Panevezys;Canal por confirmar;
+21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Lietkabelis Panevezys;EuroLeague YouTube;
 21:00;Masters París 2ª Ronda;J. Sinner;M. McDonald;ATP Tennis TV;M+ Deportes (63);
 21:30;Copa del Rey 1ª Ronda;UE Rubí;Athletic Club;Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 2 (M61 O116);
+23:00;WTA Finals Round Robin;I. Swiatek;C. Gauff;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
