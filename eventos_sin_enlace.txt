@@ -1,3 +1,5 @@
+12:00;Copa de la Reina 1/8 de final;LBTL Alcantarilla FS;Rayo Majadahonda FS;RFEF.es;
+12:00;Copa de la Reina 1/8 de final;Ourense FSF;FSF O Castro;RFEF.es;
 12:00;Copa del Rey 1ª Ronda;Azuaga;FC Cartagena;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 12:00;Copa del Rey 1ª Ronda;Compostela;CD Tenerife;TVG2 (Galicia);TV Canaria;
 12:00;Copa del Rey 1ª Ronda;Llerenense;Leganés;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
@@ -12,6 +14,8 @@
 16:00;Copa del Rey 1ª Ronda;Valle de Egüés;Teruel;Aragón TV;
 16:30;Copa del Rey 1ª Ronda;Real Avilés;Arenteiro;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 16:30;Copa del Rey 1ª Ronda;Real Jaén;Eldense;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
+17:00;Copa de la Reina 1/8 de final;Marín Futsal;Les Corts AE;RFEF.es;
+17:00;Copa de la Reina 1/8 de final;Roldán FSF;At. Navalcarnero FS;RFEF.es;
 17:00;Copa del Rey 1ª Ronda;CD Covadonga;Deportivo;TVG2 (Galicia);
 17:00;Copa del Rey 1ª Ronda;CDE Ursaria;Cayón;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 17:30;Copa del Rey 1ª Ronda;Arandina;Real Murcia;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
@@ -19,6 +23,9 @@
 17:30;Copa del Rey 1ª Ronda;Manchego CR;Antequera;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 17:30;Copa del Rey 1ª Ronda;Zamora;Racing Santander;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 17:30;Eurocup Women Liga Regular;Cadi La Seu;Zabiny Brno;FIBA YouTube;Esport3 (Cataluña);
+18:00;Copa de la Reina 1/8 de final;Atlético Torcal FS;FSF Móstoles;RFEF.es;
+18:00;Copa de la Reina 1/8 de final;CD Leganés FS;Alcorcón FS;RFEF.es;
+18:00;Copa de la Reina 1/8 de final;Torreblanca Melilla;Viaxes Amarelle FS;RFEF.es;TV Melilla;
 18:00;Copa del Rey 1ª Ronda;Barakaldo;Málaga;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 18:00;Copa del Rey 1ª Ronda;CE Europa;Elche;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 18:00;Copa del Rey 1ª Ronda;Gernika;Unionistas;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
@@ -29,6 +36,7 @@
 18:00;Copa del Rey 1ª Ronda;Yeclano;At. Sanluqueño;README.md estilo.css eventos.sh generador_html.sh id_01-11-2023.txt index.html SIN TV EN DIRECTO *;
 18:00;Eurocup Liga Regular;BC Prometey;Paris Basketball;EuroLeague TV;
 18:00;Eurocup Liga Regular;Besiktas JK Istanbul;Umana Reyer Venice;EuroLeague TV;
+18:30;Copa de la Reina 1/8 de final;Burela FS;Poio Pescamar FS;RFEF.es;
 18:30;Eurocup Women Liga Regular;Movistar Estudiantes;Dinamo Sassari;FIBA YouTube;
 18:30;FIBA Europe Cup Liga Regular;BC Kalev Cramo;Casademont Zaragoza;FIBA YouTube;Aragón Deporte;
 19:00;Copa del Rey 1ª Ronda;Águilas FC;Huesca;Aragón TV;
