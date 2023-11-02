@@ -18,12 +18,12 @@ M. Deportes 6 1080
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce 
 M. Deportes 7 1080 
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78 
+M. Deportes 7 1080 
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78 
 M. Deportes 1080 
 acestream://d00223931b1854163e24c5c22475015d7d45c112 
 M. Deportes 6 1080 
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce 
-M. Deportes 7 1080 
-acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78 
 M. Deportes 1080 
 acestream://d00223931b1854163e24c5c22475015d7d45c112 
 M. Deportes 6 1080 
@@ -58,8 +58,6 @@ M. Deportes 3 1080
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a 
 M. Deportes 1080 
 acestream://d00223931b1854163e24c5c22475015d7d45c112 
-Teledeporte RTVE
-https://www.rtve.es/play/videos/directo/deportes/tdp/
 M.L. Campeones 1080 MultiAudio 
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c 
 M.L. Campeones 1080 MultiAudio 
@@ -80,3 +78,9 @@ M. Deportes 1080
 acestream://d00223931b1854163e24c5c22475015d7d45c112 
 M. Deportes 6 1080 
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce 
+DAZN 2 1080 
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc 
+DAZN 2 720 
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf 
+Teledeporte RTVE
+https://www.rtve.es/play/videos/directo/deportes/tdp/
