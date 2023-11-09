@@ -54,6 +54,6 @@
 21:00;Europa League Fase de grupos;Freiburg;TSC Bačka Topola;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 7 (M184 O279);
 21:00;Europa League Fase de grupos;Rangers FC;Sparta Praha;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 6 (M183 O278);M+ Liga de Campeones 8 (M184 O280);
 21:00;Europa League Fase de grupos;Real Betis;Aris Limassol;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 3 (M62 O118);Cuatro;Mitele.es;LaLiga TV Bar;
-21:00;Europa League Fase de grupos;Sporting CP;Raków Częstochowa;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 6 (M183 O278);M+ Liga de Campeones 8 (M184 O280);
+21:00;Europa League Fase de grupos;Sporting CP;Raków Częstochowa;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 8 (M184 O280);
 21:00;Europa League Fase de grupos;West Ham;Olympiacos;M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 3 (M62 O118);
 21:30;Eurobasket Femenino Fase de Clasificación;Portugal;Macedonia Norte;FIBA YouTube;
