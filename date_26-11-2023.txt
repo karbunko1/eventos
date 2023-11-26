@@ -1,6 +1,7 @@
 00:00;NBA Liga Regular;Brooklyn Nets;Miami Heat;Movistar Plus+ (M7);M+ Deportes (63);
 02:00;Título Mundial Peso Medio;D. Benavidez;D. Andrade;Fight Sports Max;
 03:15;México Open;Semifinal Masculina;M+ Deportes 2 (64);
+10:15;FIA Fórmula 2;G.P. Abu Dhabi (Yas Marina);Carrera 2;DAZN (Regístrate);DAZN F1 (M69);
 11:00;ITF Torneo de Valencia Final ITF W100;J. Cristian;V. Tomova;M+ Ellas Vamos (66);Movistar+ Lite;
 12:00;Moto3;G.P. C. Valenciana (Ricardo Tormo);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);La 1 TVE;RTVE Play;
 12:00;Primera Federación Futsal;ElPozo Murcia;Ribera Navarra FS;FEF TV;
@@ -9,6 +10,7 @@
 12:30;Liga Endesa Liga Regular;Río Breogán;Casademont Zaragoza;M+ Deportes 2 (64);
 12:30;Torneo de Valencia Final ATP Challenger Tour;R. Bautista-Agut;F. Fognini;DAZN (Regístrate);RTVE Play;Eurosport 2;Eurosport Player;
 13:15;Moto2;G.P. C. Valenciana (Ricardo Tormo);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);La 1 TVE;RTVE Play;
+14:00;Fórmula 1;G.P. Abu Dhabi (Yas Marina);Carrera;DAZN (Regístrate);DAZN F1 4K (Movistar 442);DAZN F1 (M69);
 14:00;La Liga EA Sports;Villarreal;Osasuna;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;Leganés;Racing Ferrol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 14:10;Copa del Mundo Ciclocross;Dublín (Irlanda);Carrera femenina;Eurosport Player;
