@@ -42,7 +42,10 @@ jobs:
           chmod +x eventos.sh
           ./eventos.sh
           
-      - name: commit files
+       - name: pull changes
+          run: git pull
+      - name: commit files origin eventos
+      
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
