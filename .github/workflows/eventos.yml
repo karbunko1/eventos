@@ -44,7 +44,7 @@ jobs:
           
        - name: pull changes
           run: git pull
-      - name: commit files origin eventos
+      - name: commit files origin main
       
         run: |
           git config --local user.email "action@github.com"
